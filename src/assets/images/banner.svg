@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="37.8" x2="1280" y2="720">
+      <stop offset="0.241" stop-color="#07BBBC" />
+      <stop offset="1" stop-color="#7576AC" />
+    </linearGradient>
+  </defs>
+  <g id="Group">
+    <g id="W3 fill">
+      <rect id="Rectangle" width="1280" height="720" fill="url(#gradient_1)" fill-rule="evenodd" />
+    </g>
+  </g>
+</svg>

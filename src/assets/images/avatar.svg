@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="200" y1="0" x2="200" y2="400">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="1" stop-color="#FFFFFF" />
+    </linearGradient>
+  </defs>
+  <g id="W3 teal">
+    <rect id="Rectangle" width="400" height="400" fill="url(#gradient_1)" fill-rule="evenodd" fill-opacity="0" />
+    <g id="W3" transform="translate(58 101)">
+      <rect id="Rectangle" width="30.249" height="197.083" fill="#07BBBC" fill-rule="evenodd" />
+      <rect id="Rectangle" width="30.249" height="197.083" fill="#07BBBC" fill-rule="evenodd" transform="translate(65.538 0)" />
+      <rect id="Rectangle" width="30.249" height="197.083" fill="#07BBBC" fill-rule="evenodd" transform="translate(253.752 0)" />
+      <rect id="Rectangle" width="30.249" height="121.917" fill="#07BBBC" fill-rule="evenodd" transform="translate(253.752 75.167)" />
+      <rect id="Rectangle" width="30.249" height="112.75" fill="#07BBBC" fill-rule="evenodd" transform="translate(133.598 85.25)" />
+      <rect id="Rectangle" width="163.846" height="33" fill="#07BBBC" fill-rule="evenodd" transform="translate(0 165)" />
+      <path id="Rectangle" d="M150.402 1.22252e-06L150.402 33L0 33L0 0L150.402 1.22252e-06Z" fill="#07BBBC" fill-rule="evenodd" transform="translate(133.598 0)" />
+      <rect id="Rectangle" width="84" height="33" fill="#07BBBC" fill-rule="evenodd" transform="translate(200 164)" />
+      <rect id="Rectangle" width="150.402" height="33" fill="#07BBBC" fill-rule="evenodd" transform="translate(133.598 85.25)" />
+    </g>
+  </g>
+</svg>
